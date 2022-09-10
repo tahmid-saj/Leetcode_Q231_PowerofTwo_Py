@@ -1,0 +1,1 @@
+# Leetcode_Q231_PowerofTwo_Py
